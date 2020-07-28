@@ -1,0 +1,6 @@
+com\servicio\springboot\jpa\hibernate\controllers\ProductoController.class
+com\servicio\springboot\jpa\hibernate\models\repository\ProductoRepository.class
+com\servicio\springboot\jpa\hibernate\models\service\ProductoServiceImpl.class
+com\servicio\springboot\jpa\hibernate\models\entity\Producto.class
+com\servicio\springboot\jpa\hibernate\SpringbootServicioJpaHibernateApplication.class
+com\servicio\springboot\jpa\hibernate\models\service\IProductoService.class
